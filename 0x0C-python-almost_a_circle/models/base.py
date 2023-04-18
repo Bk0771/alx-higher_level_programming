@@ -173,13 +173,3 @@ class Base:
             turt.hideturtle()
 
         turtle.exitonclick()
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
